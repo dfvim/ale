@@ -10,3 +10,5 @@
 /vader_output
 __pycache__
 tags
+# ignore commit message
+.gitcommit
